@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache 
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+.vscode/
+.vscode
+# Environments
+venv/
+env/
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
